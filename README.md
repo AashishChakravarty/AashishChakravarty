@@ -1,4 +1,15 @@
 ### Hi there 👋
+**I am Aashish Chakravarty**
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishChakravarty&show_icons=true)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishChakravarty&layout=compact) 
+
+
+
+
+
 
 <!--
 **AashishChakravarty/AashishChakravarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
