@@ -1,11 +1,11 @@
 ### Hi there 👋
 **I am Aashish Chakravarty**
 
-
+<!--
 ![My GitHub stats](https://github-readme-stats-pi-three-43.vercel.app/api?username=AashishChakravarty&show_icons=true)
  
 ![Top Langs](https://github-readme-stats-pi-three-43.vercel.app/api/top-langs/?username=AashishChakravarty&layout=compact) 
-
+-->
 
 
 
