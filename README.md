@@ -1,5 +1,15 @@
-### Hi there 👋
-**I am Aashish Chakravarty**
+### Hey, Aashish Chakravarty here 👋
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-AashishChakravarty-blue?logo=Linkedin&link=https://www.linkedin.com/in/aashishchakravarty)](https://www.linkedin.com/in/aashishchakravarty/) [![Gmail Badge](https://img.shields.io/badge/-chakravartyaashish@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:chakravartyaashish@gmail.com)](mailto:chakravartyaashish@gmail.com)
+
+
+## :computer: Programming Languages
+* Elixir
+* Javascript
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishChakravarty&show_icons=true)
 
 <!--
 ![My GitHub stats](https://github-readme-stats-pi-three-43.vercel.app/api?username=AashishChakravarty&show_icons=true)
