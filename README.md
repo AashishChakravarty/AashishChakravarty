@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishChakravarty&theme=default&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
+![My GitHub stats](https://github-readme-stats-pi-three-43.vercel.app/api?username=AashishChakravarty&theme=default&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AashishChakravarty&theme=default&hide_border=false)
 
