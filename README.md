@@ -22,11 +22,10 @@
 
 ![My GitHub stats](https://github-readme-stats-pi-three-43.vercel.app/api?username=AashishChakravarty&theme=default&hide_border=false&include_all_commits=false&count_private=true&show_icons=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AashishChakravarty&theme=default&hide_border=false)
-
 ![Top Langs](https://github-readme-stats-pi-three-43.vercel.app/api/top-langs/?username=AashishChakravarty&include_all_commits=true&count_private=true&layout=compact&hide=php,html)
 
 <!--
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AashishChakravarty&theme=default&hide_border=false)
 ![My GitHub stats](https://github-readme-stats-pi-three-43.vercel.app/api?username=AashishChakravarty&show_icons=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AashishChakravarty&theme=default&hide_border=false)
 -->
